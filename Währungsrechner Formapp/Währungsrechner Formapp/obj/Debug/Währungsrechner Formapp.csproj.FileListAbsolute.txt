@@ -1,0 +1,10 @@
+C:\Users\Juan-\source\repos\Währungsrechner Formapp\Währungsrechner Formapp\bin\Debug\Währungsrechner Formapp.exe.config
+C:\Users\Juan-\source\repos\Währungsrechner Formapp\Währungsrechner Formapp\bin\Debug\Währungsrechner Formapp.exe
+C:\Users\Juan-\source\repos\Währungsrechner Formapp\Währungsrechner Formapp\bin\Debug\Währungsrechner Formapp.pdb
+C:\Users\Juan-\source\repos\Währungsrechner Formapp\Währungsrechner Formapp\obj\Debug\Währungsrechner Formapp.csprojAssemblyReference.cache
+C:\Users\Juan-\source\repos\Währungsrechner Formapp\Währungsrechner Formapp\obj\Debug\Währungsrechner_Formapp.Form1.resources
+C:\Users\Juan-\source\repos\Währungsrechner Formapp\Währungsrechner Formapp\obj\Debug\Währungsrechner_Formapp.Properties.Resources.resources
+C:\Users\Juan-\source\repos\Währungsrechner Formapp\Währungsrechner Formapp\obj\Debug\Währungsrechner Formapp.csproj.GenerateResource.cache
+C:\Users\Juan-\source\repos\Währungsrechner Formapp\Währungsrechner Formapp\obj\Debug\Währungsrechner Formapp.csproj.CoreCompileInputs.cache
+C:\Users\Juan-\source\repos\Währungsrechner Formapp\Währungsrechner Formapp\obj\Debug\Währungsrechner Formapp.exe
+C:\Users\Juan-\source\repos\Währungsrechner Formapp\Währungsrechner Formapp\obj\Debug\Währungsrechner Formapp.pdb
